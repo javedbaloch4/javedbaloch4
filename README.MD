@@ -1,7 +1,8 @@
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on a project **Cockpit,**
-- 🌱 I’m currently diving into **DevOps / Agentic AI**
+- 🔭 I’m currently working on a project **Cockpit**
+- 🌱 I’m currently exploring n8n AI automation
+- 🛠️ I'm currently learning this: https://laracasts.com/series/lets-build-a-saas-in-laravel
 - 👯 I’m looking to collaborate on **Laravel**
 - 💬 Ask me about **Tools best fit for your project**
 - 📫 How to reach me: **mjavedahmed@live.com**
